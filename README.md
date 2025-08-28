@@ -26,7 +26,7 @@ I'm a passionate full-stack developer who loves crafting practical solutions usi
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=userrails&show_icons=true&theme=gruvbox)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=userrails&theme=tokyonight)
+### ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=userrails&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=userrails&layout=compact)
 
